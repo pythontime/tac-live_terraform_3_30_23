@@ -10,7 +10,7 @@ Create three new directories: instances, keys, and scripts.
 For example: `mkdir {instances,keys,scripts}`
 - Your main.tf file will go into the instances directory. This is the directory where you will run your Terraform commands.
 - Your SSH keys will be placed in the keys directory.
-- Your cloud-init script (provided) will go in the scripts directory.
+- Your cloud-init script (provided) will go in the scripts directory. > Note: This is done in Part II.
 
 ## Create an SSH key pair
 You will need openssh or another SSH tool installed. 
@@ -21,7 +21,7 @@ You will need openssh or another SSH tool installed.
 
 - Name the key "aws_key" and save the key to the "keys" directory.
 
-> NOTE: The solution has a key pair, but the private key has been compromised (for the very fact that it exists and you can see it.) Do not use that key! Delete it and create a new one!
+> NOTE: The solution does not have a key pair, you will have to take care of that part!
 
 ## Build your Terraform files
 - Make the following files within the instances directory:
@@ -40,6 +40,9 @@ You will need openssh or another SSH tool installed.
 - Your working Terraform directory is /instances. 
 - Use the commands you have learned to initialize, format, validate, plan, and finally, apply your configuration. 
 - What information was outputted to you in the terminal?
+
+> NOTE: If you lose the outputted information just type `terraform output` to see it again!
+
 - Once the infrastructure has been built, view it within your AWS console.
 
 ## SSH into your new virtual machine.

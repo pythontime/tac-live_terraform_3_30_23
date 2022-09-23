@@ -1,4 +1,4 @@
-resource "aws_instance" "lab_04" {
+resource "aws_instance" "lab_05" {
   ami           = "ami-097a2df4ac947655f"
   instance_type = "t2.micro"
   key_name      = "aws_key"
