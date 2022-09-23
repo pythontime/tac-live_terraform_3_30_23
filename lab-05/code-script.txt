@@ -19,8 +19,8 @@ users:
       - ssh-ed25519 AAAA-etc (replace with your key here)
 
 runcmd:
-  - touch hello.txt
-  - echo "Hello! and welcome to this server! Destroy me when you are done!" >> hello.txt
+  - touch /home/spiderman/hello.txt
+  - echo "Hello! and welcome to this server! Destroy me when you are done!" >> /home/spiderman/hello.txt
   - sudo apt-get update
   - sudo apt install apache2 -q -y
   - sudo apt install python3-pip -y
