@@ -1,6 +1,4 @@
 #cloud-config-mkdocs-system
-# For DO, you will need to create a token and export it in Bash
-# Then, create an ssh key pair in Bash and paste the public key below (remove the '#')
 
 groups:
   - ubuntu: [root,sys]
