@@ -7,7 +7,7 @@ resource "aws_instance" "lab_04" {
     aws_security_group.sg_https.id,
     aws_security_group.sg_http.id
   ]
-  user_data = file("../scripts/apache-mkdocs.yaml")
+  
 
   tags = {
     Name                  = "Lab_05"
@@ -18,7 +18,7 @@ resource "aws_instance" "lab_04" {
 
 resource "aws_key_pair" "deployer" {
   key_name   = "aws_key"
-  public_key = "ssh-ed25519 AAAA-etc..."
+  public_key = "ssh-ed25519 AAAA-etc...<replace with your key!>"
 }
 
 resource "aws_security_group" "sg_ssh" {

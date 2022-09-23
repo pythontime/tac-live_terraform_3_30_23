@@ -23,6 +23,49 @@ You will need openssh or another SSH tool installed.
 
 > NOTE: The solution has a key pair, but the private key has been compromised (for the very fact that it exists and you can see it.) Do not use that key! Delete it and create a new one!
 
+## Build your Terraform files
+- Make the following files within the instances directory:
+
+  - version.tf
+  - provider.tf
+  - main.tf
+  - outputs.tf
+
+- In version.tf, use the standard terraform block code that you have used previously.
+- In provider.tf, use the standard provider block code that you have used previously. Change the region to meet your geographic area.
+- Copy the code from code-main.txt to your main.tf file. Analyze this file. Find the block named <resource "aws_key_pair"> and add your SSH public key where it says <public_key>
+- Copy the code from code-outputs.txt to your outputs.tf file. Analyze this file. What information will Terraform supply you with when the terraform apply is complete?
+
+## Initialize, validate, and apply your Terraform configuration
+- Your working Terraform directory is /instances. 
+- Use the commands you have learned to initialize, format, validate, plan, and finally, apply your configuration. 
+- What information was outputted to you in the terminal?
+- Once the infrastructure has been built, view it within your AWS console.
+
+## SSH into your new virtual machine.
+Using the information that was outputted, SSH into your instance.
+
+For example, you might do something similar to this:
+`ssh -i "../keys/aws_key" ubuntu@<ip_address>`
+
+Make sure that you can access the system. Run commands on the remote system such as:
+`cat /etc/os-release`
+and
+`systemctl status apache2`
+(The second command should result in an error because apache2 is not installed yet.)
+
+When done, exit out of the SSH session.
+
+## Destroy the infrastructure
+Use the appropriate command to destroy the infrastructure. 
+
+**Move on to Part II when ready.**
+
+
+
+
+
+
 
 
 
