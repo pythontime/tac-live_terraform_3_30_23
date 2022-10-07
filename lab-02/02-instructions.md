@@ -1,7 +1,8 @@
 # Lab 02 - Setup AWS
 In this lab we'll install and configure the AWS CLI. In so doing, we'll make sure that we have a proper set of AWS credentials. Enjoy!
 
-> NOTE: This lab requires that you have an Amazon AWS account. You can create one here: https://aws.amazon.com/. I recommend creating a new and separate IAM user for the labs in this repository.
+> NOTE: This lab requires that you have an Amazon AWS account. You can create one here: https://aws.amazon.com/. 
+> NOTE: I recommend creating a new and separate IAM user for the labs in this repository. See this link for details: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html
 
 ## Install the AWS CLI
 For instructions on installing the AWS command line interface on your platform go to:

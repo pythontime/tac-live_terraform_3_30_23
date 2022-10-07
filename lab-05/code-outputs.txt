@@ -1,9 +1,9 @@
-output "instance_public_dns" {
+output "public_dns" {
   description = "DNS name of the EC2 instance"
-  value       = aws_instance.lab_04.public_dns
+  value       = aws_instance.lab_05.public_dns
 }
 
-output "instance_public_ip" {
+output "public_ip" {
   description = "Public IP address of the EC2 instance"
   value       = aws_instance.lab_04.public_ip
 }

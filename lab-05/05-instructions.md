@@ -19,7 +19,7 @@ You will need openssh or another SSH tool installed.
 > NOTE: Consider using ED25519 instead of the default RSA. 
 > For example: `ssh-keygen -t ed25519`
 
-- Name the key "aws_key" and save the key to the "keys" directory.
+- Name the key "aws_key" and save the key to the "keys" directory. (You can also specify the path and key name with the `-f` option of the ssh-keygen command.)
 
 > NOTE: The solution does not have a key pair, you will have to take care of that part!
 
@@ -32,9 +32,10 @@ You will need openssh or another SSH tool installed.
   - outputs.tf
 
 - In version.tf, use the standard terraform block code that you have used previously.
-- In provider.tf, use the standard provider block code that you have used previously. Change the region to meet your geographic area.
+- In provider.tf, use the standard provider block code that you have used previously. Change the region to meet your geographical requirements.
 - Copy the code from code-main.txt to your main.tf file. Analyze this file. Find the block named <resource "aws_key_pair"> and add your SSH public key where it says <public_key>
-- Copy the code from code-outputs.txt to your outputs.tf file. Analyze this file. What information will Terraform supply you with when the terraform apply is complete?
+- Copy the code from code-outputs.txt to your outputs.tf file. Analyze this file. What information will Terraform supply you with when the terraform apply is complete? 
+> IMPORTANT!! WATCH FOR ERRORS!!
 
 ## Initialize, validate, and apply your Terraform configuration
 - Your working Terraform directory is /instances. 

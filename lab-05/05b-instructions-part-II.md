@@ -37,4 +37,8 @@ At this point, the system should install an Apache web server, install pip, inst
 
 - When complete, be sure to destroy the infrastructure.
 
+---
+## *That was a lot of tech! Great job!*
+---
+
 

@@ -12,6 +12,11 @@ This time, you will be writing some of the code line by line so that you can get
 
 > NOTE: For additional practice, if you are using VSCode, consider opening code.txt in the built-in Terminal (using the cat command or vim/nano) and type the code, line by line, in the code window. 
 
+> NOTE: For more information on all AWS instance types, see this link: https://aws.amazon.com/ec2/instance-types/
+
+## Take a look at the Terraform Registry
+https://registry.terraform.io/
+
 ## Validate and create your infrastructure
 Initialize, format, and validate your code. Then, create the infrastructure. Use terraform commands from memory.
 
@@ -29,3 +34,7 @@ You will not be able to do this. View the error that follows.
 - Using the correct command, destroy the infrastructure and verify that it has been terminated at the AWS console.
 
 > NOTE: If you have additional time, take a look at the Terraform Registry: https://registry.terraform.io/
+
+---
+## *Great work!*
+---
