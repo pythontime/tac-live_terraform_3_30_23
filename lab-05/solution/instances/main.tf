@@ -7,6 +7,7 @@ resource "aws_instance" "lab_05" {
     aws_security_group.sg_https.id,
     aws_security_group.sg_http.id
   ]
+  
   user_data = file("../scripts/apache-mkdocs.yaml")
 
   tags = {
