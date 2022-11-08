@@ -43,16 +43,22 @@ or
 
 > NOTE: This is very helpful for Bash, but not quite as necessary for Fish or ZSH
 
-## Examine the main help file
+## Examine the help system
+First, analyze the main help command:
+
 `terraform -help`
 
-You could also type `terraform --help`, `terraform -h`, or `terraform --h`
+You could also type the following options: 
 
-Note the main commands including: init, plan, validate, apply, and destroy.
+`terraform --help`, `terraform -h`, or `terraform --h`
+
+Take note of the main commands including: init, plan, validate, apply, and destroy.
 
 Now, learn more about a subcommand. 
 
-  For example: `terraform -h init`
+  For example: 
+  
+  `terraform -h init`
 
   You could also type: `terraform init -h` if you wish.
 
@@ -67,8 +73,8 @@ This can be done directly within VSCode or from one of the following:
 
   https://marketplace.visualstudio.com/items?itemName=4ops.terraform
 
-## (Optional) Install the Vim Terraform Module
-If you use Vim, you might want this module:
+## (Optional) Install a Vim Module
+If you use Vim, you might want to consider the HashiVim Terraform module:
 
 https://github.com/hashivim/vim-terraform
 

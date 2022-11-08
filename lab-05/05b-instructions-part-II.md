@@ -31,7 +31,10 @@ At this point, the system should install an Apache web server, install pip, inst
 - View the hello.txt file and the new website located at /var/www/html
 
 - Attempt to connect to the website from a browser at: 
-  - http://<ipaddress>
+  
+  ```
+  http://<ipaddress>
+  ```
 
 - Play around with it! You did good!
 

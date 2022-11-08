@@ -3,3 +3,6 @@ variable "instance_name" {
   type = string
   default = "Lab-06-Variables!!!"
 }
+
+
+

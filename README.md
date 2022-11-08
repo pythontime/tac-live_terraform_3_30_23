@@ -7,7 +7,7 @@ This course is designed to teach the basics of Terraform and prepare you to take
 
 Within this repository you find lab instructions that coincide with the live-stream webinar. 
 
-Repository link: https://github.com/daveprowse/terraform-tac-prowse-webinar
+Repository link: https://github.com/daveprowse/tac-live
 
 ## Recommendations
 To follow along with me I suggest you have the following ready:
@@ -53,5 +53,19 @@ I hope you enjoy the webinar. If you have any questions you can contact me at:
 - Hashicorp Terraform Associate certification webpage with objectives:
 
   https://www.hashicorp.com/certification/terraform-associate
+
+- Terraform Docs: 
+  
+  https://developer.hashicorp.com/terraform/docs
+
+- Terraform Registry: 
+  
+  https://registry.terraform.io/
+
+- Terraform Language Documentation: 
+  
+  https://developer.hashicorp.com/terraform/language
+
+
 
 
