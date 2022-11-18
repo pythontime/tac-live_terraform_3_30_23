@@ -16,4 +16,3 @@ resource "aws_instance" "webserver" {
     Name = "${var.webserver_name} webserver"
   }
 }
-
