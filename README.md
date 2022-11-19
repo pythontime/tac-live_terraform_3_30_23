@@ -1,4 +1,5 @@
 # Terraform Associate Certification Prep Webinar
+with Dave Prowse (https://prowse.tech)
 
 ## Introduction
 Hello and Welcome!
@@ -12,9 +13,9 @@ Repository link: https://github.com/daveprowse/tac-live
 ## Recommendations
 To follow along with me I suggest you have the following ready:
 
-- A Linux virtual machine (Debian or Fedora recommended)
+- A Linux virtual machine (Recommended: Debian, Ubuntu Desktop, or Fedora workstation) 
 
-  Minimum 1 CPU and 1 GB RAM (Recommended 2 CPUs and 4 GB RAM)
+  Minimum 1 CPU and 1 GB RAM (Recommended: 2 CPUs and 4 GB RAM)
 
   Update the system: 
 
@@ -22,7 +23,7 @@ To follow along with me I suggest you have the following ready:
 
     Fedora: `dnf update -y`
 
-  I suggest using VirtualBox, VMware Workstation, or KVM for your virtual machines.
+  > Note: I suggest using VirtualBox, VMware Workstation, or KVM for your virtual machines. 
 
 - Visual Studio Code installed.
 
@@ -33,7 +34,7 @@ To follow along with me I suggest you have the following ready:
 ## Contact information
 I hope you enjoy the webinar. If you have any questions you can contact me at:
 
-- https://prowse.tech
+- My website: https://prowse.tech
 
 - Discord server: https://discord.gg/mggw8VGzUp
 

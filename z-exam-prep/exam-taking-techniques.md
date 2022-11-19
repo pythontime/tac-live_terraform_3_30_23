@@ -1,13 +1,19 @@
 # Exam Taking Techniques
 By Dave Prowse
 
+https://prowse.tech
+
+https://discord.gg/mggw8VGzUp 
+
 Here is a list of tips, tricks, and techniques that will help you when taking an exam. These have proven to be very helpful to my students, readers, watchers, and especially, for me!
+
+---
 
 ## General Practices for Taking Exams
 
 **Pick a good time for the exam** 
 
-Keep in mind that you can take the exams at a testing center or from home. It appears that the fewest people are at test centers on Monday and Friday mornings. Consider scheduling during these times. Otherwise, schedule a time that works well for you, when you don’t have to worry about anything else. Keep in mind that Saturdays can be busy. Oh, and don’t schedule the exam until you are ready. I understand that sometimes deadlines have to be set, but in general, don’t register for the exam until you feel confident you can pass. Things come up in life that can sometimes get in the way of your study time. Keep in mind that most exams can be canceled as long as you give 48 hours’ notice. (To be sure, check that time frame when registering.)
+Schedule a time that works well for you, when you don’t have to worry about anything else. DO NOT schedule the exam until you are READY! I understand that sometimes deadlines have to be set, but in general, don’t register for the exam until you feel confident you can pass. Things come up in life that can sometimes get in the way of your study time. Keep in mind that most exams can be canceled as long as you give 48 hours’ notice. (To be sure, check that time frame when registering.)
 
 
 **Don’t overstudy the day before the exam** 
@@ -27,12 +33,14 @@ Eating is good! Breakfast is number two when it comes to getting your mind ready
 
 **Show up early** 
 
-The testing agency recommends that you are present 30 minutes prior to your scheduled exam time, regardless of whether you are taking the exam at a testing center or from home. (As of the writing of this document, HashiCorp certification exams are taken online.) This is important: Give yourself plenty of time. Stress and fear are the mind killers. Work on reducing any types of stress the day of and the day before the exam. 
+Be present 30 minutes prior to your scheduled exam time. (As of the writing of this document, HashiCorp certification exams are taken online.) This is important: Give yourself plenty of time. Stress and fear are the mind killers. Work on reducing any types of stress the day of and the day before the exam. 
 
 
 **Bring ear plugs** 
 
-You never know when noise will present itself. Just be ready to show your ear plugs to the test administrator. Also, if you do plan to use ear plugs, consider a test run with them before hand, so that you can become accustomed to them. 
+You never know when noise will present itself. Consider using ear plugs. Just be ready to show them to the test administrator. Also, if you do plan to use ear plugs, consider a test run with them before hand, so that you can become accustomed to them. 
+
+> Note: I use 3M Classic foam ear plugs. They're cheap and work well: from study time, to mowing the lawn, to concerts, you name it. I buy them by the 200 pack and share: https://amzn.to/3EJA0ng
 
 
 **Brainstorm before starting the exam** 
@@ -48,6 +56,8 @@ Exams can be brutal. You have to answer a lot of questions (typically anywhere f
 **Be confident** 
 
 You have studied hard, gone through the practice exams, created your cheat sheet[md]you’ve done everything you can to prep. These things alone should build confidence. But actually, you just have to be confident for no reason whatsoever. Think of it this way: You are great…I am great…(to quote Dr. Daystrom). But truly, there is no disputing this. That’s the mentality you must have. You are not being pretentious about this if you think it to yourself. Acting that way to others…well, that’s another matter. So build that inner confidence, and your mind-set should be complete.
+
+---
 
 ## Smart Methods for Difficult Questions
 
@@ -75,10 +85,18 @@ Don’t let yourself get stuck on one question, especially the performance-based
 
 Remember that the exams might not be perfect. A question might seem confusing or appear not to make sense. Leave questions like this until the end. After you have gone through all the other techniques mentioned, make an educated, logical guess. Try to imagine what the test is after and why it would be bringing up this topic, as vague or as strange as it might appear.
 
+---
+
 ## Wrapping Up the Exam
 
 **Review all your answers!!** 
 
 If you finish early, use the time allotted to you to review the answers. Chances are you will have time left over at the end, so use it wisely. Make sure that everything you have marked has a proper answer that makes sense to you. But try not to overthink. Give the exam your best shot, and be confident in your answers. You don’t want to second-guess yourself.
+
+---
+
+In closing, confidence is the key when taking an exam. 
+
+*Remember, you can do this!*
 
 # GOOD LUCK!

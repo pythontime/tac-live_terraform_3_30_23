@@ -17,6 +17,6 @@ resource "aws_instance" "lab_06" {
   ami           = "ami-0c7c4e3c6b4941f0f"
   instance_type = "t2.micro"
   tags = {
-    Name      = "Lab_06-this-name-will-be-changed"        
+    Name      = "Lab-06-Variables!!!"
   }
 }
