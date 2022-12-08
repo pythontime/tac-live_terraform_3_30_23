@@ -21,3 +21,7 @@ Within you will find :
 - Re-initialize the directory and apply the infrastructure.
 - Verify names and values.
 - Destroy the infrastructure.
+  
+---
+## *Fantastic!*
+---

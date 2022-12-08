@@ -16,6 +16,8 @@ https://fishshell.com/docs/current/index.html#starting-and-exiting
 
 > NOTE: the /local part of the directory path works for many Linux distros, but should be omitted in Debian. 
 
+Restart your computer or virtual machine. After the restart the Fish shell should work by default.
+
 Modify the Fish prompt, color scheme, and more, by running the following program in the terminal:
 
 `fish_config`

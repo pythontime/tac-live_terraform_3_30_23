@@ -5,7 +5,7 @@ https://prowse.tech
 
 https://discord.gg/mggw8VGzUp 
 
-Here is a list of tips, tricks, and techniques that will help you when taking an exam. These have proven to be very helpful to my students, readers, watchers, and especially, for me!
+Here is a list of tips and techniques that will help you when taking an exam. These have proven to be very helpful to my students, readers, watchers, and especially, for me!
 
 ---
 
@@ -55,7 +55,7 @@ Exams can be brutal. You have to answer a lot of questions (typically anywhere f
 
 **Be confident** 
 
-You have studied hard, gone through the practice exams, created your cheat sheet[md]you’ve done everything you can to prep. These things alone should build confidence. But actually, you just have to be confident for no reason whatsoever. Think of it this way: You are great…I am great…(to quote Dr. Daystrom). But truly, there is no disputing this. That’s the mentality you must have. You are not being pretentious about this if you think it to yourself. Acting that way to others…well, that’s another matter. So build that inner confidence, and your mind-set should be complete.
+You have studied hard, gone through the practice exams, created your cheat sheet - you’ve done everything you can to prep. These things alone should build confidence. But actually, you just have to be confident for no reason whatsoever. Think of it this way: You are great…I am great…(to quote Dr. Daystrom). But truly, there is no disputing this. That’s the mentality you must have. You are not being pretentious about this if you think it to yourself. Acting that way to others…well, that’s another matter. So build that inner confidence, and your mind-set should be complete.
 
 ---
 

@@ -4,7 +4,7 @@ This lab does the following:
 - Uses Cloud-init to setup a new user and install Ansible on each VM. 
 - Runs an Ansible playbook that installs an nginx web server to both VMs..
   
-> Note: This lab is meant for demonstration purposes. In the field, I would organize it differently, add variables (many) and increase security to the Nth degree.
+> Note: This lab is meant for demonstration purposes. In the field, I would organize it differently, add variables (many), and increase security to the Nth degree.
 
 ## !!! IMPORTANT !!!
 
@@ -84,7 +84,7 @@ That should display dependency graph of your resources in Terraform. Fun!
 ## Destroy the infrastructure
 Once again, it's very important to destroy the infrastructure so that you are not billed any more than need be.
 
-From the lab-10 directory, use the autodestroy.sh script to destroy the infrastructure. If for some reason, that does not work, go to the instances directory and type:
+From the lab-10 directory, use the autodestroy.sh script to destroy the infrastructure. If for some reason that does not work, go to the instances directory and type:
 
 `terraform destroy`
 

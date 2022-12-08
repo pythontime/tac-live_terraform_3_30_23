@@ -21,3 +21,7 @@ Instead, it is recommended to do one of the following:
 - Create a terraform.tfvars file to house the credentials. This file will be called upon by a variable in a separate .tf file. However, it is VERY IMPORTANT that you do not check terraform.tfvars into source control. Be sure to put terraform.tfvars in the .gitignore file.
 - !!! Use another secrets-providing tool such as HashiCorp's Vault. !!! 
 - Use third-party cloud provided options for securely calling upon credentials.
+
+---
+## *You're the best!*
+---

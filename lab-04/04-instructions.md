@@ -5,6 +5,7 @@ You will have 5 minutes.
 
 ## Write the code!
 This time, you will be writing some of the code line by line so that you can get a feel for working with Terraform code. 
+
 - Create a main.tf file for your code. 
 - Write a terraform block and provider block similar to the ones we used in lab-03. 
 - Copy and paste the code for the resource and security groups from the file named code.txt. This can be placed after your provider block.
@@ -17,12 +18,15 @@ This time, you will be writing some of the code line by line so that you can get
 ## Take a look at the Terraform Registry
 https://registry.terraform.io/
 
+Search for the AWS provider and then, in the documentation, search for "aws_security_group".
+
 ## Validate and create your infrastructure
 Initialize, format, and validate your code. Then, create the infrastructure. Use terraform commands from memory.
 
 > NOTE: Use the help system and your notes if you get stuck! If you get super-stuck, view the main.tf file in the solution directory.
 
 ## Analyze the infrastructure within the AWS console and state file
+
 - Verify that your instance was created.
 - View the two security groups and their ports.
 - View those security groups in the state file.
@@ -31,9 +35,9 @@ Initialize, format, and validate your code. Then, create the infrastructure. Use
 You will not be able to do this. View the error that follows.
 
 ## Destroy the infrastructure
-- Using the correct command, destroy the infrastructure and verify that it has been terminated at the AWS console.
+Using the correct command, destroy the infrastructure and verify that it has been terminated at the AWS console.
 
-> NOTE: If you have additional time, take a look at the Terraform Registry: https://registry.terraform.io/
+> !! IMPORTANT !! Practice! Spend some time at the Terraform Registry: https://registry.terraform.io/
 
 ---
 ## *Great work!*

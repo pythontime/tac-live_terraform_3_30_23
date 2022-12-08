@@ -4,7 +4,7 @@ with Dave Prowse (https://prowse.tech)
 ## Introduction
 Hello and Welcome!
 
-This course is designed to teach the basics of Terraform and prepare you to take the Terraform Associate Certification exam.
+This repository and corresponding live course are designed to teach the basics of Terraform and prepare you to take the Terraform Associate Certification exam.
 
 Within this repository you find lab instructions that coincide with the live-stream webinar. 
 
@@ -66,5 +66,3 @@ I hope you enjoy the webinar. If you have any questions you can contact me at:
 - Terraform Language Documentation: 
   
   https://developer.hashicorp.com/terraform/language
-
-

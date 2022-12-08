@@ -30,3 +30,5 @@ ansible-playbook ansible/playbook.yml --private-key keys/aws_key -i ansible/inve
 printf "\n\033[7;32mAPPLY COMPLETE! \033[0m"
 echo
 printf "\nTime to complete = %s seconds" "$SECONDS"
+
+## END

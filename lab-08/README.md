@@ -1,4 +1,4 @@
-# Lab-08 
+# Lab-08 - Multiple Providers
 
 This "lab" simply shows some different options for Terraform providers. This is non-functional code. 
 
