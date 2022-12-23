@@ -17,8 +17,6 @@ Build Two terraform files.
   - main.tf 
   - variables.tf
 
----
-
 ## Configure main.tf
 Code the following blocks in a similar fashion to previous labs, but use variables as shown below:
 - terraform
