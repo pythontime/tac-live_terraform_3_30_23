@@ -4,9 +4,11 @@ with Dave Prowse (https://prowse.tech)
 ## Introduction
 Hello and Welcome!
 
-This repository and corresponding live course are designed to teach the basics of Terraform and prepare you to take the Terraform Associate Certification exam.
+This repository and corresponding live event are designed to teach the basics of Terraform and prepare you to take the Terraform Associate Certification exam.
 
 Within this repository you find lab instructions that coincide with the live-stream webinar. 
+
+> Note: I run my webinars on the O'Reilly Platform. Check this link for the latest: https://learning.oreilly.com/search/?q=Dave%20Prowse&type=*
 
 Repository link: https://github.com/daveprowse/tac-live
 
@@ -19,11 +21,11 @@ To follow along with me I suggest you have the following ready:
 
   Update the system: 
 
-    Debian: `apt update && apt upgrade -y`
+    Debian/Ubuntu: `apt update && apt upgrade -y`
 
     Fedora: `dnf update -y`
 
-  > Note: I suggest using VirtualBox, VMware Workstation, or KVM for your virtual machines. 
+  > Note: I suggest using VirtualBox, VMware Workstation, KVM or Proxmox for your virtual machines. 
 
 - Visual Studio Code installed.
 
@@ -50,6 +52,10 @@ I hope you enjoy the webinar. If you have any questions you can contact me at:
 - Amazon Web Services (AWS) account setup
 
   https://aws.amazon.com/account/  
+
+- AWS IAM Setup
+
+  https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html
 
 - Hashicorp Terraform Associate certification webpage with objectives:
 

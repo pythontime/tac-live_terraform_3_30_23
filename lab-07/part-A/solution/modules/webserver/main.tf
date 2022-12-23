@@ -2,7 +2,7 @@ terraform {
   required_version = ">= 1.3.0"
 }
 
-resource "aws_subnet" "webserver" {
+resource "aws_subnet" "web_subnet" {
   vpc_id = var.vpc_id
   cidr_block = var.cidr_block
 }

@@ -1,7 +1,3 @@
-####################################
-## PUT TERRAFORM CLOUD BLOCK HERE!  ##
-
-
 terraform {
   required_providers {
     aws = {
@@ -13,11 +9,15 @@ terraform {
   required_version = ">= 1.2.0"
 }
 
-resource "aws_instance" "lab_09" {
+provider "aws" {
+  region = var.region
+}
+
+resource "aws_instance" "workspace_testing" {
   ami           = "ami-0c7c4e3c6b4941f0f"
-  instance_type = "t2.micro"
+  instance_type = var.instance_type
 
   tags = {
-    Name = "Lab-09-Terraform-Cloud"
+    Name = var.name
   }
 }

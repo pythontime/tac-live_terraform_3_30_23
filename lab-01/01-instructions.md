@@ -41,7 +41,7 @@ or
 
 - Restart the shell
 
-> NOTE: This is very helpful for Bash, but not quite as necessary for Fish or ZSH
+> Note: This is very helpful for Bash, but not quite as necessary for Fish or ZSH
 
 ## Examine the help system
 First, analyze the main help command:

@@ -26,7 +26,7 @@ Here we will code our main.tf and variables.tf files
 ### main.tf
 Access main.tf and add the following blocks:
 - terraform block with a required version of 1.3.
-- resource block for an aws_subnet named "webserver". In this block call two variables:
+- resource block for an aws_subnet named "web_subnet". In this block call two variables:
   - `vpc_id     = var.vpc_id`
   - `cidr_block = var.cidr_block`
   > Note: we will setup the variables later.

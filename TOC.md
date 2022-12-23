@@ -15,4 +15,7 @@
 - Opt-03: (Optional) More Variables!
 - Opt-04: (Optional) The SPLAT Expression!
 - Opt-05: (Optional) Use the COUNT meta-argument!
+- Opt-06: (Optional) Aliases in Bash and Fish
+- Opt-07: (Optional) Import
+- Opt-08: (Optional) Multiple Workspaces in the Terraform CLI
 

@@ -16,7 +16,7 @@ However, this makes the secret key visible to anyone who has access to the terra
 **AVOID HARD-CODING!**
 
 Instead, it is recommended to do one of the following:
-- Use the provider's CLI tool and store the credentials in the appropriate place. For example, for AWS, install the AWS CLI, and add the credentials, either by runing the `aws configure` command, or by manuall modifying the credentials file (stored in ~/.aws). 
+- Use the provider's CLI tool and store the credentials in the appropriate place. For example, for AWS, install the AWS CLI, and add the credentials, either by running the `aws configure` command, or by manual modifying the credentials file (stored in ~/.aws). 
 > NOTE: These credentials can also be called upon by defining variables.
 - Create a terraform.tfvars file to house the credentials. This file will be called upon by a variable in a separate .tf file. However, it is VERY IMPORTANT that you do not check terraform.tfvars into source control. Be sure to put terraform.tfvars in the .gitignore file.
 - !!! Use another secrets-providing tool such as HashiCorp's Vault. !!! 

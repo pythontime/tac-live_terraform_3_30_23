@@ -17,3 +17,4 @@ module "webserver-user2" {
   instance_type  = "t2.micro"
   webserver_name = "User 2's"
 }
+

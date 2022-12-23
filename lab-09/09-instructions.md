@@ -19,7 +19,7 @@ You will need a valid email address to validate your account.
 - Name and describe your first workspace
 
 ## Configure the main.tf file
-- Copy the example code from the overview webpage to the main.tf file.
+- Copy the example code from the overview webpage to the main.tf file (before the rest of the existing code).
 - run `terraform init` and notice how it fails.
   
 ## Login to TC with a token
@@ -27,7 +27,7 @@ You will need a valid email address to validate your account.
 - Copy and paste the token from the browser to the CLI.
 - Verify that the connection is valid.
 
-> Note: take a look at the .terraform.d directory and locate the credentials.tfrc.json file. This contains your Terraform Cloud token.
+> Note: take a look at the ~/.terraform.d directory and locate the credentials.tfrc.json file. This contains your Terraform Cloud token.
 
 ## Setup a new AWS access key
 - Create a new access key in the AWS console
