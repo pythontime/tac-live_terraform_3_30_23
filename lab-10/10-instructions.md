@@ -1,7 +1,7 @@
 # Lab 10 - Terraform with AWS, Ansible, and Bash
 This lab does the following:
 - Creates two Ubuntu VMs on AWS
-- Uses Cloud-init to setup a new user and install Ansible on each VM. 
+- Uses Cloud-init to setup a new user and prepare the VMS. 
 - Runs an Ansible playbook that installs an nginx web server to both VMs..
   
 > Note: This lab is meant for demonstration purposes. In the field, I would organize it differently, add variables (many), and increase security to the Nth degree.
@@ -12,6 +12,7 @@ This lab does the following:
 
 > The entire run is done within a bash script named automagic.sh. Be sure to analyze script files before running them!
 
+> There is no solution directory. The entire lab is the solution.
 
 ## Create SSH keys
 - Go to the keys directory and build yourself an SSH key to use for this lab. I recommend using ed25519 and naming the key "aws_key" so that it works with the lab properly.

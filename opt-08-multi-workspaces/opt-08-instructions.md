@@ -135,7 +135,7 @@ Check the working directories That should bring us back to our initialized state
 > Note: To reset the working directory to a non-initialized state, simply delete all Terraform-created files and directories, including: 
 > .terraform, .terraform.tfstate.d, terraform.tfstate, terraform.tfstate.backup.
 > However, the last two should already be gone because we deleted their corresponding workspaces. Remember that!
-> A quick way to do this is `rm -r {.t*,t*}`. However, this implies a best practice: Don't name any terraform configuration files starting with a 't'. 
+> A quick way to do this is `rm -r {.t*,t*}`. However, be careful, this will delete any files/directories that start with a 't', including things such as terraform.tfvars and test.tf!
 
 ---
 ## *"Again, it is the legend."*

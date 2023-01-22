@@ -29,9 +29,9 @@ To follow along with me I suggest you have the following ready:
 
 - Visual Studio Code installed.
 
-- An AWS account (with a separate IAM user for lab purposes)
+- An AWS account with a separate IAM user (with **admin** permissions) for lab purposes
 
-- Two monitors (or a second system) to display additional resources
+- Two or more monitors (or a second system) to display additional resources
 
 ## Contact information
 I hope you enjoy the webinar. If you have any questions you can contact me at:
@@ -72,3 +72,12 @@ I hope you enjoy the webinar. If you have any questions you can contact me at:
 - Terraform Language Documentation: 
   
   https://developer.hashicorp.com/terraform/language
+
+## Further Study
+- Terraform Study Guide:
+
+  https://developer.hashicorp.com/terraform/tutorials/certification/associate-study
+
+- Terraform Review Guide:
+  
+  https://developer.hashicorp.com/terraform/tutorials/certification/associate-review

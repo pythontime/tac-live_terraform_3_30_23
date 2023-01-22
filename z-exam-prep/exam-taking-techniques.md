@@ -13,12 +13,12 @@ Here is a list of tips and techniques that will help you when taking an exam. Th
 
 **Pick a good time for the exam** 
 
-Schedule a time that works well for you, when you don’t have to worry about anything else. DO NOT schedule the exam until you are READY! I understand that sometimes deadlines have to be set, but in general, don’t register for the exam until you feel confident you can pass. Things come up in life that can sometimes get in the way of your study time. Keep in mind that most exams can be canceled as long as you give 48 hours’ notice. (To be sure, check that time frame when registering.)
+Schedule a time that works well for you, when you don’t have to worry about anything else. DO NOT schedule the exam until you are READY! It is understandable that deadlines have to be set sometimes, but in general, don’t register for the exam until you feel confident you can pass. Things come up in life that can sometimes get in the way of your study time. Keep in mind that most exams can be canceled as long as you give 48 hours’ notice. (To be sure, check that time frame when registering.)
 
 
 **Don’t overstudy the day before the exam** 
 
-Some people like to study hard the day before; some don’t. My recommendations are to study from your cheat sheet and maybe run through some quick Q&A, but in general, don’t overdo it. It’s not a good idea to go into overload mode the day before the exam.
+Some people like to study hard the day before; some don’t. My recommendations are to study from your cheat sheet and maybe run through some quick Q&A, but in general, don’t overdo it. It’s not a good idea to go into overload mode the day before (or the day of) the exam. Consider doing some exercise or something fun instead! 
 
 
 **Get a good night’s rest** 
@@ -31,26 +31,23 @@ A good night’s sleep (seven to nine hours) before the day of the exam is proba
 Eating is good! Breakfast is number two when it comes to getting your mind ready for an exam, especially if it is a morning exam. Just watch out for the coffee and tea. Too much caffeine if you are not used to it can be detrimental to the thinking process.
 
 
+**Create a CLEAN testing area**
+
+One best practice is to have a completely clean desk above and below. Nothing on it or below it. The online proctor will ask you to either remove or show any items that are visible (which is time consuming and difficult to do with a webcam). Remove as much clutter from the room (and especially the desk) as possible. You can have a clear container for water, no labels. 
+
+
 **Show up early** 
 
-Be present 30 minutes prior to your scheduled exam time. (As of the writing of this document, HashiCorp certification exams are taken online.) This is important: Give yourself plenty of time. Stress and fear are the mind killers. Work on reducing any types of stress the day of and the day before the exam. 
+Be present 30 minutes prior to your scheduled exam time. (As of the writing of this document, HashiCorp certification exams are taken online.) This is important: Give yourself plenty of time. You will need to do audio/video checks, webcam sweeps, capture your ID, shut down apps, etc... *You will need the time.* 
 
+These types of distractions can be stressful. Stress and fear are the mind killers. Work on reducing any types of stress the day of and the day before the exam by preparing as much as possible. 
 
-**Bring ear plugs** 
-
-You never know when noise will present itself. Consider using ear plugs. Just be ready to show them to the test administrator. Also, if you do plan to use ear plugs, consider a test run with them before hand, so that you can become accustomed to them. 
-
-> Note: I use 3M Classic foam ear plugs. They're cheap and work well: from study time, to mowing the lawn, to concerts, you name it. I buy them by the 200 pack and share: https://amzn.to/3EJA0ng
-
-
-**Brainstorm before starting the exam** 
-
-If possible, write down as much as you can remember from your cheat sheet before starting the exam. Getting all the memorization out of your head and on “paper” first clears the brain somewhat so that it can tackle the questions. 
+> Note: Most proctors do not allow ear plugs. Make sure you are testing in a quiet environment. Consider putting a sign on the door that says "TESTING, QUIET PLEASE!" or something similar.
 
 
 **Take small breaks while taking the exam** 
 
-Exams can be brutal. You have to answer a lot of questions (typically anywhere from 50 to 90) while staring at a screen for an hour or more. I recommend small breaks and breathing techniques. For example, after going through every 25 questions or so, close your eyes and slowly take a few deep breaths, holding each one for five seconds and then releasing each one slowly. Think about nothing while doing so. Remove the test from your mind during these breaks. This technique takes only about half a minute but can help get your brain refocused. It’s almost a Zen type of thing; but for me, when I have applied this technique properly, I have gotten a few perfect scores. It’s amazing how the mind-set can make or break you.
+Exams can be brutal. You have to answer a lot of questions (typically anywhere from 50 to 90) while staring at a screen for an hour or more. I recommend small breaks and breathing techniques. For example, after going through every 20 questions or so, close your eyes and slowly take a few deep breaths, holding each one for five seconds and then releasing each one slowly. Think about nothing while doing so. Remove the test from your mind during these breaks. This technique takes only about half a minute but can help get your brain refocused. It’s almost a Zen type of thing; but for me, when I have applied this technique properly, I have gotten a few perfect scores. It’s amazing how the mind-set can make or break you.
 
 
 **Be confident** 
@@ -78,7 +75,7 @@ Sometimes a person taking a test just doesn’t know the answer; it happens to e
 
 **Don’t let one question beat you!** 
 
-Don’t let yourself get stuck on one question, especially the performance-based questions. Skip it and return to it later. When you spend too much time on one question, the brain gets sluggish. The thing with these exams is that you either know the content or you don’t. And don’t worry too much about it; chances are you are not going to get a perfect score. Remember that the goal is only to pass the exams; how many answers you get right after that is irrelevant. If you have gone through this book thoroughly, you should be well prepared. You should have plenty of time to go through all the exam questions with time to spare to return to the ones you skipped and marked.
+Don’t let yourself get stuck on one question, especially the performance-based questions. Skip it (flag it) and return to it later. When you spend too much time on one question, the brain gets sluggish. The thing with these exams is that you either know the content or you don’t. And don’t worry too much about it; chances are you are not going to get a perfect score. Remember that the goal is only to pass the exams; how many answers you get right after that is irrelevant. If you have gone through this book thoroughly, you should be well prepared. You should have plenty of time to go through all the exam questions with time to spare to return to the ones you skipped and marked.
 
 
 **If all else fails, guess** 
@@ -91,7 +88,8 @@ Remember that the exams might not be perfect. A question might seem confusing or
 
 **Review all your answers!!** 
 
-If you finish early, use the time allotted to you to review the answers. Chances are you will have time left over at the end, so use it wisely. Make sure that everything you have marked has a proper answer that makes sense to you. But try not to overthink. Give the exam your best shot, and be confident in your answers. You don’t want to second-guess yourself.
+If you finish early, use the time allotted to you to review the answers. Chances are you will have time left over at the end, so use it wisely. Make sure that everything you have flagged has a proper answer that makes sense to you. Make sure that if you change an answer, that you click "Answer" again to record the new answer. 
+However, try not to overthink. Give the exam your best shot, and be confident in your answers. You don’t want to second-guess yourself.
 
 ---
 

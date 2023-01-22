@@ -13,7 +13,7 @@ variable "ami" {
 
 variable "name" {
   description = "Name tag of the instance"
-  type = string
+  type = string    
   # This will be the name that shows up on the AWS console and within tags
 }
 

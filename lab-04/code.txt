@@ -22,7 +22,7 @@ resource "aws_security_group" "sg_ssh" {
 
   egress {
     cidr_blocks = ["0.0.0.0/0"]
-    protocol    = "tcp"
+    protocol    = "-1"
     from_port   = 0
     to_port     = 0
   }
@@ -38,7 +38,7 @@ resource "aws_security_group" "sg_https" {
 
   egress {
     cidr_blocks = ["0.0.0.0/0"]
-    protocol    = "tcp"
+    protocol    = "-1"
     from_port   = 0
     to_port     = 0
   }
