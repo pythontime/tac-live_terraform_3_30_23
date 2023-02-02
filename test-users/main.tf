@@ -26,6 +26,8 @@ resource "aws_iam_user" "test_user" {
   }
 }
 
+
+
 # This outputs the name of all users created
 output "Name_of_all_users" {
   value = aws_iam_user.test_user[*].name

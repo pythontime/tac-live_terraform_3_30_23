@@ -1,6 +1,7 @@
 # Terraform Associate Certification Prep Webinar
 with Dave Prowse (https://prowse.tech)
 
+
 ## Introduction
 Hello and Welcome!
 
@@ -31,14 +32,19 @@ To follow along with me I suggest you have the following ready:
 
 - An AWS account with a separate IAM user (with **admin** permissions) for lab purposes
 
+> Note: !!! Creating infrastructure on AWS or other cloud providers can incur a cost. Do not apply infrastructure if you do not want to be charged. 
+> Amazon allows 750 hours of virtual machine usage (per month) on qualifying free tiers at AWS. Make sure that your region and AMI are part of the free tier program. For a pre-cost analysis see this link: https://calculator.aws
+
 - Two or more monitors (or a second system) to display additional resources
+
 
 ## Contact information
 I hope you enjoy the webinar. If you have any questions you can contact me at:
 
+- Discord server: https://discord.gg/mggw8VGzUp
+
 - My website: https://prowse.tech
 
-- Discord server: https://discord.gg/mggw8VGzUp
 
 ## Resources
 - Visual Studio Code:
@@ -72,6 +78,7 @@ I hope you enjoy the webinar. If you have any questions you can contact me at:
 - Terraform Language Documentation: 
   
   https://developer.hashicorp.com/terraform/language
+
 
 ## Further Study
 - Terraform Study Guide:
