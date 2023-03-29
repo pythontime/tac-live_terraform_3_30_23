@@ -14,10 +14,16 @@ On Fedora, type:
 
 Restart the system when complete.
 
-## Install Terraform from the Hashicorp Terraform installation web page:
-https://learn.hashicorp.com/tutorials/terraform/install-cli 
+## Install Terraform from Hashicorp:
+Option #1 - Install using your package manager.
+https://developer.hashicorp.com/terraform/downloads 
 
 Locate your operating system and install Terraform following the directions. 
+
+Option #2 - Install the binary.
+https://releases.hashicorp.com/terraform 
+
+Locate the latest version for your platform, download it, verify the checksum, unzip it, and copy it to your binaries directory (for example, /usr/local/bin).
 
 If you have any issues, ASK QUESTIONS! 
 

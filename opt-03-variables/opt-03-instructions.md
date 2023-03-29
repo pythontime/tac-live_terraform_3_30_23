@@ -7,7 +7,7 @@ Within you will find :
   - This contains several variables that are currently set to ask you for information during the `terraform apply`.
 
 ## Procedure - Part 1
-- Plan. Know which region you will be working in before you intialize the directory.
+- Plan. Know which region you will be working in before you initialize the directory.
 - Initialize, format, validate, and apply the configuration.
 - Answer the questions to complete the apply.
 > NOTE: Be sure to make a note of what you typed. You will be asked for this information during the destroy phase. Remember that you can also find this information in the state file.

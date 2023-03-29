@@ -98,3 +98,7 @@ In closing, confidence is the key when taking an exam.
 *Remember, you can do this!*
 
 # GOOD LUCK!
+I wish you the best of luck on the exam. But really... it's skill that you need, and at this point, it's skill that you possess. Use it. 
+
+I love to hear from my students when they pass an exam, so please drop me a line at my Discord server and let me know about your good fortune!
+https://discord.gg/r7emN5HPsq
