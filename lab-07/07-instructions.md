@@ -1,4 +1,4 @@
-# Part A - Local Module
+# Lab 07 - Local Module
 **Scenario** Setup a webserver module that multiple users can work with.
 
 > Note: To get additional practice working with Terraform, I want you to code everything in this lab line-by-line.
@@ -103,3 +103,7 @@ When you are finished, be 100% sure to destroy your work with the `terraform des
 ---
 ## *Superb! Another "build & destroy" complete.*
 ---
+
+### Extra Credit: Download and analyze the AWS VPC module
+https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest
+Check it out! 
