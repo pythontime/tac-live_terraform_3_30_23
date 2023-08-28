@@ -6,7 +6,7 @@ terraform {
   required_providers {
     aws = {
       source  = "hashicorp/aws"
-      version = "~> 4.40"
+      version = "~> 5.0"
     }
   }
 
@@ -14,22 +14,21 @@ terraform {
 }
 
 provider "aws" {
-  region = "us-east-2"  
+  region = "us-east-2"
 }
 
 resource "aws_iam_user" "test_user" {
-  name = "user-${count.index}" 
+  name  = "user-${count.index}"
   count = 3
   tags = {
-    time_created = timestamp()    
-    department = "OPS"
+    time_created = timestamp()
+    department   = "OPS"    
   }
 }
 
 
-
 # This outputs the name of all users created
-output "Name_of_all_users" {
+output "name_of_all_users" {
   value = aws_iam_user.test_user[*].name
 }
 

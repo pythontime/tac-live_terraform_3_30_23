@@ -1,5 +1,6 @@
 # Terraform Associate Certification Prep Webinar
 with Dave Prowse (https://prowse.tech)
+Rev B - 8/28/2023
 
 
 ## Introduction
@@ -9,7 +10,7 @@ This repository and corresponding live event are designed to teach the basics of
 
 Within this repository you find lab instructions that coincide with the live-stream webinar. 
 
-> Note: I run my webinars on the O'Reilly Platform. Check this link for the latest: https://learning.oreilly.com/search/?q=David%20Prowse&type=live-event-series
+> Note: I run my webinars on the O'Reilly Platform. Check this link for the latest: https://learning.oreilly.com/search/?q=Prowse&type=live-event-series
 
 Repository link: https://github.com/daveprowse/tac-live
 
